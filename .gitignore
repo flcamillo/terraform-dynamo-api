@@ -1,0 +1,7 @@
+*.hcl
+*.backup
+*.tfstate
+.terraform*
+bson/
+gridfs/
+pymongo*/
